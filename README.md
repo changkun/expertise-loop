@@ -10,11 +10,20 @@ This repository includes the collected dataset (anonymized), and the source code
 
 ## Dataset
 
-TODO:
+The dataset is collected from the developed system of the research project.
+The [raw](./data/raw) folder contains the raw data collected from the developed system.
+The [processed](./data/processed) folder contains pre-computed data frames for further
+statistical analysis. See [data/README.md](./data/README.md) for more information.
 
 ## Scripts and Figures
 
-TODO:
+The Python and R notebooks that reproduces the reported results in Section 4
+can be found in the [notebooks](./notebooks) and [assets](./assets) folder.
+
+## System
+
+The system is developed in Go, and consists of three frontend applications and one backend server.
+For more information, see [system/README.md](./system/README.md).
 
 ## Contribute
 
