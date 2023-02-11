@@ -9,6 +9,10 @@ In 28th International Conference on Intelligent User Interfaces (IUI '23), March
 
 This repository includes the collected dataset (anonymized), and the source code of scripts to reproduce the results reported in the paper.
 
+## Full Paper
+
+The paper is available at [ou2023expertise.pdf](./ou2023expertise.pdf).
+
 ## Dataset
 
 The dataset is collected from the developed system of the research project.
